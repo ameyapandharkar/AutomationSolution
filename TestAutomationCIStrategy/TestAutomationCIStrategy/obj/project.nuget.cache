@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7RtqQC1DIIeozhaPNPys6bR0UAFQhCaNV6qurTCCJfmUr5sqJThGxR4nIS6ltDD/pFyYt/1ZImqcPpbb4KGFdQ==",
+  "dgSpecHash": "0Rt2SWgvLiisUxWTYyErxoiBylzR24v7mY6Wv7/D3GS/QTq2ul0Y66dF34vMFy8+6LAfkYLCObmqtJpKczZR9Q==",
   "success": true,
-  "projectFilePath": "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj",
+  "projectFilePath": "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suhas\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\suhas\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",

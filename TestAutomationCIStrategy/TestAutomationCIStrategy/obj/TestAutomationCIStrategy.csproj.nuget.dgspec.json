@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj": {}
+    "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj": {}
   },
   "projects": {
-    "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj": {
+    "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj",
+        "projectUniqueName": "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj",
         "projectName": "TestAutomationCIStrategy",
-        "projectPath": "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj",
+        "projectPath": "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj",
         "packagesPath": "C:\\Users\\suhas\\.nuget\\packages\\",
-        "outputPath": "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\obj\\",
+        "outputPath": "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suhas\\AppData\\Roaming\\NuGet\\NuGet.Config",
