@@ -111,25 +111,31 @@ C:\Devops\Automation Solution\TestAutomationCIStrategy\TestAutomationCIStrategy\
 C:\Devops\Automation Solution\TestAutomationCIStrategy\TestAutomationCIStrategy\obj\Debug\net6.0\TestAutomationCIStrategy.pdb
 C:\Devops\Automation Solution\TestAutomationCIStrategy\TestAutomationCIStrategy\obj\Debug\net6.0\TestAutomationCIStrategy.genruntimeconfig.cache
 C:\Devops\Automation Solution\TestAutomationCIStrategy\TestAutomationCIStrategy\obj\Debug\net6.0\ref\TestAutomationCIStrategy.dll
-C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\testhost.exe
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\LivingDoc.Dtos.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\testhost.exe
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\testhost.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\NUnit3.TestAdapter.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\nunit.engine.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\nunit.engine.api.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\nunit.engine.core.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\testcentric.engine.metadata.dll
-C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\testhost.dll
-C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\specflow.json
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\TestAutomationCIStrategy.deps.json
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\TestAutomationCIStrategy.runtimeconfig.json
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\TestAutomationCIStrategy.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\TestAutomationCIStrategy.pdb
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Allure.Net.Commons.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Allure.SpecFlowPlugin.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\AspectInjector.Broker.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\BoDi.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\CsvHelper.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\FluentAssertions.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Gherkin.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\0Harmony.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
@@ -139,6 +145,16 @@ C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debu
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\MimeTypesMap.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Mono.Cecil.Mdb.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Mono.Cecil.Pdb.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Mono.Cecil.Rocks.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Mono.Cecil.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\MonoMod.Backports.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\MonoMod.Core.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\MonoMod.Iced.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\MonoMod.ILHelpers.dll
+C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\MonoMod.Utils.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\NuGet.Frameworks.dll
 C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\bin\Debug\net6.0\nunit.framework.dll

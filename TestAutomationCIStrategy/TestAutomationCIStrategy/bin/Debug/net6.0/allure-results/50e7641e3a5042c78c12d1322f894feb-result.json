@@ -1,0 +1,107 @@
+{
+  "uuid": "db5467f4-d087-4ee7-846f-e03290a0b07d",
+  "historyId": "621ad5832ae1806402260f9ee920ae1e",
+  "testCaseId": "8b0c38497bd03652446f01845641e507",
+  "fullName": "TestAutomationCIStrategy/Features/Calculator/Add two numbers",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AMEYA"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "SpecFlow"
+    },
+    {
+      "name": "feature",
+      "value": "Calculator"
+    },
+    {
+      "name": "tag",
+      "value": "mytag"
+    }
+  ],
+  "links": [],
+  "name": "Add two numbers",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  the first number is 50",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1699983608237,
+      "stop": 1699983608246
+    },
+    {
+      "name": "And  the second number is 70",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1699983608247,
+      "stop": 1699983608248
+    },
+    {
+      "name": "When  the two numbers are added",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1699983608248,
+      "stop": 1699983608248
+    },
+    {
+      "name": "Then  the result should be 120",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1699983608248,
+      "stop": 1699983608249
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1699983608230,
+  "stop": 1699983608250
+}

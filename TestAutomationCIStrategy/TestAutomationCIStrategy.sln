@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomationCIStrategy", "TestAutomationCIStrategy\TestAutomationCIStrategy.csproj", "{F821488E-DBF3-4269-B28A-2CB0907BB676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAutomationCIStrategy", "TestAutomationCIStrategy\TestAutomationCIStrategy.csproj", "{F821488E-DBF3-4269-B28A-2CB0907BB676}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
