@@ -16,7 +16,7 @@ namespace TestAutomationCIStrategy.StepDefinitions
         [Given("the second number is (.*)")]
         public void GivenTheSecondNumberIs(int number)
         {
-            Num2 = number;
+            Num2 = number;   
         }
 
         [When("the two numbers are added")]
@@ -28,7 +28,7 @@ namespace TestAutomationCIStrategy.StepDefinitions
         [Then("the result should be (.*)")]
         public void ThenTheResultShouldBe(int result)
         {
-            Console.WriteLine(sum);
+            Console.WriteLine(sum); 
         }
     }
 }

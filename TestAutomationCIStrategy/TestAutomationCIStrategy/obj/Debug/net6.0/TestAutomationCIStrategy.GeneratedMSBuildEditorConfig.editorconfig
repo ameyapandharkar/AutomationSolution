@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestAutomationCIStrategy
-build_property.ProjectDir = C:\AutomationSolution\TestAutomationCIStrategy\TestAutomationCIStrategy\
+build_property.ProjectDir = C:\Devops\Automation Solution\TestAutomationCIStrategy\TestAutomationCIStrategy\

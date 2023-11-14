@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj": {}
+    "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj": {}
   },
   "projects": {
-    "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj": {
+    "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj",
+        "projectUniqueName": "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj",
         "projectName": "TestAutomationCIStrategy",
-        "projectPath": "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj",
+        "projectPath": "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\TestAutomationCIStrategy.csproj",
         "packagesPath": "C:\\Users\\suhas\\.nuget\\packages\\",
-        "outputPath": "C:\\AutomationSolution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\obj\\",
+        "outputPath": "C:\\Devops\\Automation Solution\\TestAutomationCIStrategy\\TestAutomationCIStrategy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suhas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Allure.SpecFlow": {
+            "ExtentReports": {
               "target": "Package",
-              "version": "[2.10.0, )"
+              "version": "[4.1.0, )"
             },
             "FluentAssertions": {
               "target": "Package",
@@ -56,10 +56,6 @@
               "target": "Package",
               "version": "[4.1.0, )"
             },
-            "SpecFlow": {
-              "target": "Package",
-              "version": "[3.9.74, )"
-            },
             "SpecFlow.NUnit": {
               "target": "Package",
               "version": "[3.9.40, )"
@@ -70,7 +66,7 @@
             },
             "nunit": {
               "target": "Package",
-              "version": "[3.13.3, )"
+              "version": "[3.13.2, )"
             }
           },
           "imports": [
